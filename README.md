@@ -1,7 +1,3 @@
+# Parcial1_Web
+Santiago Díaz 201912247
 
-
-
-
-
-Santiago Diaz
-201912247
